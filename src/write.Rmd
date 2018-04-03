@@ -338,3 +338,5 @@ A good data analysis plan should be more than "I plan to run a chi-squared test 
 - survey or questionnaire development
 - data management
 - data sharing
+
+Copy of these slides at https://github.com/pmean/write-data-analysis-plan
